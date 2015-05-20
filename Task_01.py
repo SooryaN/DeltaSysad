@@ -1,6 +1,6 @@
 import os
 curr=os.getcwd()
-for i in range (1,4):
+for i in range (1,101):
 	folderName='folder'+str(i)
 	os.mkdir(folderName)
 	cmd1='chmod 0700 '+folderName
