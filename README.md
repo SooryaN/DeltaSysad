@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-# DeltaSysad
-=======
+
 #**Delta SysAd Inductions**
-This is my repo for the tasks as part of the induction process for the System Administrator in [Delta](http://delta.nitt.edu/)
+This is my repo for the tasks as part of the induction process for the System Administrator position in [Delta](http://delta.nitt.edu/)
 
 ---
 ##Task_01
