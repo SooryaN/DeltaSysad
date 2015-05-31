@@ -8,6 +8,7 @@ Write a script to create a 100 folders in a given directory named _folder{1,2,..
 ---
 ##Task_02
 Write a Python Script to create 2 Python Scripts and set a Cron job.  
+
 1. **Python Script 1** :  
 This Script should create a new database. It should also create a table and a column in the newly created database.
 The names of the database, table and column can be of your choice.
